@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "GroundStationGUI", "GroundStationGUI.vbproj", "{99DDF2ED-9501-4565-9ED4-4D2FE45C7232}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99DDF2ED-9501-4565-9ED4-4D2FE45C7232}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99DDF2ED-9501-4565-9ED4-4D2FE45C7232}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99DDF2ED-9501-4565-9ED4-4D2FE45C7232}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99DDF2ED-9501-4565-9ED4-4D2FE45C7232}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8FD1F20A-5CDD-471B-B7A9-4460887FAFAE}
+	EndGlobalSection
+EndGlobal
